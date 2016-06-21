@@ -396,7 +396,7 @@ public class CaculatorInterface extends javax.swing.JFrame {
             	jTextField1.setText("");
         	}
         	else {
-        		jTextField1.setText("Syntax Error");
+        		jTextField1.setText("-");
         	}
         }
     }//GEN-LAST:event_Button_lessActionPerformed
